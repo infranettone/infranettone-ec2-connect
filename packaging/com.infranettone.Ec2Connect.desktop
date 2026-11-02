@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=EC2 por SSM
+Comment=Conecta por Session Manager a las instancias de todas las cuentas de AWS
+Exec=infranettone-ec2-connect
+Icon=utilities-terminal
+Categories=Network;System;
+Keywords=aws;ec2;ssm;session;manager;ssh;rdp;
+StartupNotify=true
