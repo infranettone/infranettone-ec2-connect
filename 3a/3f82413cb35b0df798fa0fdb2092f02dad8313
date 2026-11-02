@@ -1,0 +1,44 @@
+ec2_connect/session.py
+  s_4c5202411246f0::t_93b32d50dd480f 1-123
+ec2_connect/version.py
+  s_4c5202411246f0::t_c7774ad484ec8e 1-19
+.github/workflows/release.yml
+  s_4c5202411246f0::t_be508ef4512663 1-42
+.gitignore
+  s_4c5202411246f0::t_be508ef4512663 1-5
+README.md
+  s_4c5202411246f0::t_3773f602290d55 1-53
+AGENTS.md
+  s_4c5202411246f0::t_a0663ee1513c9c 1-37
+packaging/com.infranettone.Ec2Connect.desktop
+  s_4c5202411246f0::t_be508ef4512663 1-9
+ec2_connect/__main__.py
+  s_4c5202411246f0::t_26955883b23cb8 1-70
+ec2_connect/inventory.py
+  s_4c5202411246f0::t_6c59241fdf7f89 1-158
+ec2_connect/config.py
+  s_4c5202411246f0::t_8ac359b450118d 1-35
+ec2_connect/ui.py
+  s_4c5202411246f0::t_c5ded3a15d8763 1-340
+CLAUDE.md
+  s_4c5202411246f0::t_be508ef4512663 1
+packaging/build-deb.sh
+  s_4c5202411246f0::t_04145ecc037505 49,54
+  s_4c5202411246f0::t_be508ef4512663 1-48,50-53,55-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3a3f82413cb35b0df798fa0fdb2092f02dad8313",
+  "prompts": {},
+  "sessions": {
+    "s_4c5202411246f0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9d1673bc-639b-4370-932e-17fc5b1a0124",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Raul Adamuz <radamuzc@gmail.com>"
+    }
+  }
+}
